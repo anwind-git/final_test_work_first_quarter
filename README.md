@@ -4,4 +4,4 @@
 
 Алгоритм работы программы:
 
-![avatar](https://github.com/anwind-git/final_test_work_first_quarter/imag.jpg)
+![avatar](https://github.com/anwind-git/final_test_work_first_quarter/blob/main/imag.jpg)
